@@ -1,84 +1,83 @@
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Venkat+Perumal;MERN+Stack+Developer;Google+Cloud+Learner;Future+Software+Engineer;Code+•+Learn+•+Build+🚀" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkat-softdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://komarev.com/ghpvc/?username=venkat-softdev&style=for-the-badge&color=blueviolet" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-softdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🔥 GitHub Streak
 
-```javascript
-const venkat = {
-    location: "India 🇮🇳",
-    education: "B.E Computer Science",
-    learning: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "MongoDB",
-        "Google Cloud"
-    ],
-    goal: "Become a Full Stack Software Engineer",
-    hobbies: [
-        "Coding",
-        "Gaming",
-        "Learning New Tech"
-    ]
-}
-```
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=venkat-softdev&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
 
 ---
 
-# 🚀 Currently Learning
+# 📈 Contribution Graph
 
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- ⚛️ React
-- 🟢 Node.js
-- 🍃 MongoDB
-- ☁️ Google Cloud
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=venkat-softdev&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,c,cpp,java,python&perline=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=venkat-softdev&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# ⚡ Profile Summary
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/venkat-softdev">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkat-softdev&theme=tokyonight"/>
 
-<!-- Later add LinkedIn -->
-<!-- <a href="https://linkedin.com/in/yourusername">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a> -->
+</div>
 
-</p>
+---
+
+# 📚 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkat-softdev&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkat-softdev&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📅 Productive Time
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkat-softdev&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ "Turning ideas into real-world solutions."
+### 🚀 Every Commit Makes Me Better.
+
+⭐ Thanks for visiting my profile ⭐
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
