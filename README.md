@@ -1,65 +1,98 @@
----
-
-# 🐍 Contribution Snake
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Venkat+Perumal;MERN+Stack+Developer;JavaScript+Learner;Google+Cloud+Learner;Future+Software+Engineer" />
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/venkat-softdev/venkat-softdev/output/github-contribution-grid-snake-dark.svg)
+### 💻 Passionate CSE Student | 🚀 Future Full Stack Developer | ☁️ Cloud Enthusiast
+
+<img src="https://komarev.com/ghpvc/?username=venkat-softdev&label=Profile+Views&color=00ffff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💬 Random Dev Quote
+## 🚀 About Me
+
+- 🎓 CSE Student
+- 🌱 Currently learning **MERN Stack**
+- 💻 Love building Web Applications
+- ☁️ Learning Google Cloud
+- 📚 Exploring Data Science & AI
+- 🎯 Goal: Become a Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode,c,cpp,java,python&perline=7"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkat-softdev&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-softdev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=venkat-softdev&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=venkat-softdev&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=venkat-softdev&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## ⚡ Fun Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/venkat-softdev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master HTML, CSS & JavaScript
-- 🚀 Become a MERN Stack Developer
-- ☁️ Earn Google Cloud Certifications
-- 💻 Build 20+ Real-World Projects
-- ⭐ Contribute to Open Source
-- 🎯 Crack a Software Engineer Role
-
----
-
-# ⚡ Fun Fact
-
-```text
-while (!success) {
-    learn();
-    build();
-    improve();
-    repeat();
-}
-```
-
----
-
-# 🌐 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=venkat-softdev&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💙 Thanks for Visiting!
-
-### ⭐ If you like my work, don't forget to star my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=150&section=footer"/>
+### ⭐ Thanks for visiting my profile ⭐
 
 </div>
