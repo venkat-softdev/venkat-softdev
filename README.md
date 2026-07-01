@@ -1,74 +1,54 @@
 ---
 
-# 📊 GitHub Analytics
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkat-softdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-softdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+![Snake animation](https://raw.githubusercontent.com/venkat-softdev/venkat-softdev/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 💬 Random Dev Quote
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=venkat-softdev&theme=tokyonight&hide_border=true&border_radius=12"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🎯 2026 Goals
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=venkat-softdev&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=venkat-softdev&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
+- ✅ Master HTML, CSS & JavaScript
+- 🚀 Become a MERN Stack Developer
+- ☁️ Earn Google Cloud Certifications
+- 💻 Build 20+ Real-World Projects
+- ⭐ Contribute to Open Source
+- 🎯 Crack a Software Engineer Role
 
 ---
 
-# ⚡ Profile Summary
+# ⚡ Fun Fact
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venkat-softdev&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📚 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venkat-softdev&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venkat-softdev&theme=tokyonight"/>
-
-</div>
+```text
+while (!success) {
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
 
 ---
 
-# 📅 Productive Time
+# 🌐 Visitor Counter
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venkat-softdev&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://komarev.com/ghpvc/?username=venkat-softdev&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -76,8 +56,10 @@
 
 <div align="center">
 
-### 🚀 Every Commit Makes Me Better.
+## 💙 Thanks for Visiting!
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ If you like my work, don't forget to star my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=150&section=footer"/>
 
 </div>
